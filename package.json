@@ -1,0 +1,15 @@
+{
+  "name": "lambda-test-trial",
+  "version": "1.0.0",
+  "private": true,
+  "author": "gil-wixgh <gilgo@wix.com>",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.2.0",
+    "dotenv": "^17.4.2",
+    "typescript": "^7.0.2"
+  }
+}
